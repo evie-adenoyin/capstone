@@ -1,0 +1,25 @@
+body{
+  font-family: Belleza ;
+  background-color: #011627;
+  color: #FDFFFC;
+  text-align: center;
+  border: 40px solid #2EC486;
+  border-top: none;
+  margin: 0px;
+}
+
+p{
+  padding: 5% 20% 0% 20%;
+}
+form{
+  font-size: 1.4em;
+  margin-bottom: 7px;
+}
+#sub{
+  background-color: #FF9F1C;
+  height: 80px;
+  width: 150px;
+  margin: 4px;
+  border-radius: 5px;
+  font-size: 0.7em;
+}
